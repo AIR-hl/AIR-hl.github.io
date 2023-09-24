@@ -1,3 +1,12 @@
+---
+layout: default
+---
+
+Text can be **bold**, _italic_, or ~~strikethrough~~.
+
+[Link to another page](./another-page.html).
+
+
 # 1 开始
 ## 1.1 安装
 1. 安装 langchain 库
